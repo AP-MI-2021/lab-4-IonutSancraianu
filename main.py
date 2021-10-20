@@ -143,6 +143,10 @@ def test_cmmdc_and_inverted_neg():
 
 def main():
     lst = []
+    test_cmmdc_and_inverted_neg()
+    test_smallest_and_last_digit_given()
+    test_smallest_and_last_digit_given()
+    test_print_neg_numbers()
     while True:
         print("Alegeti optiunea dorita, sau x daca doriti sa iesiti")
         print("1. Citeste lista")
