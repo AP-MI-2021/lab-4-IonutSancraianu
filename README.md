@@ -32,6 +32,7 @@ Exemplu:
 [10.0, 100.0, 12.45, 50.0, 101.2] --> ['0.01', 100.0, '54.21', '0.05', 101.2]
 
 Punctajul pe fiecare cerință se acordă astfel:
--	50% corectitudinea implementării.
--	25% specificații scrise corect (unde se aplică) și denumiri sugestive.
--	25% teste relevante și scrise corect (unde se poate).
+- 50% corectitudinea implementării.
+- 
+- 25% specificații scrise corect (unde se aplică) și denumiri sugestive.
+- 25% teste relevante și scrise corect (unde se poate).
